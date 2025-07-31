@@ -4,7 +4,7 @@ A package that includes two standardizing tools:
 - Road Attribute Search Key (RASK), that standardizes road attributes (street name, street type, etc).
 - Community Attribute Search Key (CASK), that standardizes municipality names.
 
-The rask-cask Python module is based from the rules defined in the [RASK/CASK specifications](https://gccode.ssc-spc.gc.ca/stats-srgd/rask-cask-python/wikis/RASK/RASK-CASK-Specifications](https://github.com/StatCan/rask-cask-python/blob/main/docs/CASK_specs_20130301.doc).
+The rask-cask Python module is based from the rules defined in the [RASK/CASK specifications](https://github.com/StatCan/rask-cask-python/blob/main/docs/CASK_specs_20130301.doc).
 
 ## Installation
 ```bash
